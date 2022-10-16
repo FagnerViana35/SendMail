@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">SendMail</string>
-    <string name="to">Para:</string>
-    <string name="Cc">Destino</string>
-    <string name="subject">Subject:</string>
-    <string name="message">Mensagem:</string>
+    <string name="para">Para:</string>
+    <string name="destino">Destino:</string>
+    <string name="subject">Assunto:</string>
+    <string name="mensagem">Mensagem:</string>
     <string name="bcc">Bcc:</string>
-    <string name="cleanform">Limpar Formulário</string>
-    <string name="send_email">Enviar Email</string>
+    <string name="limpar">Limpar Formulário</string>
+    <string name="enviar">Enviar Email</string>
 </resources>

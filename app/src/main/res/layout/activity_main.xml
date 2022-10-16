@@ -19,7 +19,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/to"
+            android:text="@string/para"
             android:labelFor="@id/toEt"
             android:textSize="20sp"/>
 
@@ -43,7 +43,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Cc"
+            android:text="@string/destino"
             android:labelFor="@id/ccEt"
             android:textSize="20sp"/>
 
@@ -114,7 +114,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/message"
+            android:text="@string/mensagem"
             android:labelFor="@id/messageEt"
             android:textSize="20sp"/>
 
@@ -141,7 +141,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:text="@string/cleanform"/>
+            android:text="@string/limpar"/>
 
         <Button
             android:id="@+id/sendBt"
@@ -149,7 +149,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:text="@string/send_email"/>
+            android:text="@string/enviar"/>
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
